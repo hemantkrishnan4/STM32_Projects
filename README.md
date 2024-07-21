@@ -49,6 +49,12 @@ The repository includes two projects developed using EdgeAI Studio, which are co
 
 To see the model in action, check out the video demonstration: [Gun.mp4](Result/Gun.mp4)
 
+Below, is the ST32_Audio_Classification in Action
+![STM32_Audio-Classification](https://github.com/user-attachments/assets/6a342f08-749b-45f5-a87c-f71a605a7860)
+
+EdgeAi_Studio, Projects
+![EdgeAi_Studio](https://github.com/user-attachments/assets/a5064cb7-f5f9-4720-ba61-61a608a603fa)
+
 ## Conclusion
 
 The STM32 Development Kit exploration provided valuable insights into the world of embedded systems and AI model integration. While the audio classification project highlighted some challenges in model accuracy, the overall experience demonstrated the potential of combining embedded systems with AI for practical applications.
@@ -62,3 +68,5 @@ This project was completed with the invaluable help of Dr. Sajesh Kumar. I would
 Feel free to explore the repository and experiment with the provided code and projects. If you have any questions or suggestions, please don't hesitate to reach out.
 
 Happy coding!
+
+
