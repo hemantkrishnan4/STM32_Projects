@@ -49,6 +49,10 @@ The repository includes two projects developed using EdgeAI Studio, which are co
 
 To see the model in action, check out the video demonstration: [Gun.mp4](Result/Gun.mp4)
 
+https://github.com/user-attachments/assets/22715477-b8b0-4f8d-b8ab-927a5fc45e4f
+
+
+
 Below, is the ST32_Audio_Classification in Action
 ![STM32_Audio-Classification](https://github.com/user-attachments/assets/6a342f08-749b-45f5-a87c-f71a605a7860)
 
