@@ -1,0 +1,10 @@
+11:40:17 **** Incremental Build of configuration Debug for project audio_classification ****
+make -j8 all 
+arm-none-eabi-size  audio_classification.elf 
+   text	   data	    bss	    dec	    hex	filename
+  31336	    492	   5316	  37144	   9118	audio_classification.elf
+Finished building: default.size.stdout
+ 
+
+11:40:17 Build Finished. 0 errors, 0 warnings. (took 257ms)
+

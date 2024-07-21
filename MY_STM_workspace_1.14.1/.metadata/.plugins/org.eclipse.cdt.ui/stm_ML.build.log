@@ -1,0 +1,10 @@
+11:49:01 **** Incremental Build of configuration Debug for project stm_ML ****
+make -j8 all 
+arm-none-eabi-size  stm_ML.elf 
+   text	   data	    bss	    dec	    hex	filename
+  25996	    476	   3076	  29548	   736c	stm_ML.elf
+Finished building: default.size.stdout
+ 
+
+11:49:02 Build Finished. 0 errors, 0 warnings. (took 315ms)
+

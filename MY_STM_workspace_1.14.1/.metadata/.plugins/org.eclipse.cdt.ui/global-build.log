@@ -1,0 +1,48 @@
+13:39:12 **** Incremental Build of configuration Debug for project stm_gun ****
+make -j8 all 
+arm-none-eabi-gcc -o "stm_gun.elf" @"objects.list"  -lneai -mcpu=cortex-m4 -T"C:\Users\Hemant\STM32CubeIDE\workspace_1.14.1\stm_gun\STM32F411RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="stm_gun.map" -Wl,--gc-sections -static -L../NEAi/Lib --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -u _printf_float -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: stm_gun.elf
+ 
+arm-none-eabi-size  stm_gun.elf 
+arm-none-eabi-objdump -h -S stm_gun.elf  > "stm_gun.list"
+   text	   data	    bss	    dec	    hex	filename
+  33632	    504	   5344	  39480	   9a38	stm_gun.elf
+Finished building: default.size.stdout
+ 
+Finished building: stm_gun.list
+ 
+13:39:19 **** Incremental Build of configuration Debug for project stm_gun ****
+make -j8 all 
+arm-none-eabi-size  stm_gun.elf 
+   text	   data	    bss	    dec	    hex	filename
+  33632	    504	   5344	  39480	   9a38	stm_gun.elf
+Finished building: default.size.stdout
+ 
+13:40:21 **** Incremental Build of configuration Debug for project stm_gun ****
+make -j8 all 
+arm-none-eabi-size  stm_gun.elf 
+   text	   data	    bss	    dec	    hex	filename
+  33632	    504	   5344	  39480	   9a38	stm_gun.elf
+Finished building: default.size.stdout
+ 
+13:44:32 **** Incremental Build of configuration Debug for project stm_gun ****
+make -j8 all 
+arm-none-eabi-size  stm_gun.elf 
+   text	   data	    bss	    dec	    hex	filename
+  33632	    504	   5344	  39480	   9a38	stm_gun.elf
+Finished building: default.size.stdout
+ 
+13:47:05 **** Incremental Build of configuration Debug for project stm_gun ****
+make -j8 all 
+arm-none-eabi-size  stm_gun.elf 
+   text	   data	    bss	    dec	    hex	filename
+  33632	    504	   5344	  39480	   9a38	stm_gun.elf
+Finished building: default.size.stdout
+ 
+13:47:52 **** Incremental Build of configuration Debug for project stm_gun ****
+make -j8 all 
+arm-none-eabi-size  stm_gun.elf 
+   text	   data	    bss	    dec	    hex	filename
+  33632	    504	   5344	  39480	   9a38	stm_gun.elf
+Finished building: default.size.stdout
+ 

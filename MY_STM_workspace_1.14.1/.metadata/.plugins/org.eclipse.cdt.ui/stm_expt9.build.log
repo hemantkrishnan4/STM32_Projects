@@ -1,0 +1,10 @@
+11:36:12 **** Incremental Build of configuration Debug for project stm_expt9 ****
+make -j8 all 
+arm-none-eabi-size  stm_expt9.elf 
+   text	   data	    bss	    dec	    hex	filename
+  24984	    128	   5384	  30496	   7720	stm_expt9.elf
+Finished building: default.size.stdout
+ 
+
+11:36:12 Build Finished. 0 errors, 0 warnings. (took 396ms)
+
